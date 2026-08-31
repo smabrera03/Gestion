@@ -1,0 +1,41 @@
+Distintos aspectos a regular
+
+
+1) Aviación, registro, permiso de operación, seguro
+
+ANAC --> Administración nacional de aviación civil
+
+RAAC --> Regulaciones Argentinas de aviación civil
+
+RPA --> Remotely piloted aircraft
+RPAS --> Sistema de RPA´s
+
+RAAC parte 100 --> Disposiciones generales. Acá se definen la categoría abierta, específica y certificada
+
+ABIERTA: "son aquellas RPA/RPAS cuyas operaciones no estarán sujetas a ninguna autorización previa, ni requisito alguno del 
+explotador de RPA/RPAS para realizar sus operaciones."
+
+"A efectos técnico-registrales, se considerarán dentro de la categoría Abierta los RPA/RPAS inferiores a 25 kg de MTOW.
+Cualquier aeronave no tripulada de ala rotativa sin límite de peso que opere exclusivamente en una zona rural
+será considerada de CATEGORÍA ABIERTA."
+
+MTOW: maximum take off weight
+Es una especificación del drone. Es lo máximo que puede pesar para ser capaz de despegar. 
+Incluye el peso propio del drone más la carga útil.
+
+Sobre las operaciones autónomas:
+
+"Por regla general, se prohíben las operaciones de sistemas de aeronaves pilotadas a distancia (RPA/RPAS)
+que no permitan la intervención directa del piloto al mando durante cualquiera de las fases del vuelo, con el
+fin de controlar o modificar su trayectoria. No obstante, la Autoridad Aeronáutica emitirá una reglamentación
+técnica específica que regule este tipo de operaciones, conforme a lo establecido en el Anexo I del Decreto
+N.º 663/2024."
+
+RAAC parte 101 --> Categoría abierta
+RAAC parte 102 --> Categoría específica
+
+2) SENASA (servicio nacional de sanidad y calidad agroalimentaria), regulación de cultivos, salud de animales y fitosanitarios
+
+3) ley 25.326, ley de datos personales
+
+4) Normas de ENACOM (ente nacional de comunicaciones), regulaciones sobre las telecomunicaciones
