@@ -1,3 +1,38 @@
+Lineamientos para la investigación:
+
+Agarrar UN inversor particular para una aplicación fotovoltaica y explicar su topología. Comprobar que coincida con alguna hoja de aplicación de TI o con el libro de Erickson
+
+
+Anti-islanding: Apagar el inversor si la red cae. 
+
+--------------------------------------------------------------------------
+tidu402(High Voltage Solar Inverter Kit)
+https://www.ti.com/tool/TIDM-SOLAR-ONEPHINV
+--------------------------------------------------------------------------
+Referencia de diseño de un inversor simple. Es solo el conversor DC->AC
+
+--------------------------------------------------------------------------
+tidu405b(Digitally Controlled Micro Inverter)
+https://www.ti.com/tool/TIDM-SOLARUINV
+--------------------------------------------------------------------------
+Referencia de diseño de un inversor con una etapa previa de fuente Flyback. Explica la aislación.
+
+--------------------------------------------------------------------------
+Erickson
+--------------------------------------------------------------------------
+Sección 6.1.4. FUNDAMENTAL. DERIVACIÓN DEL PEUNTE H MONO- Y TRIFÁSICO A PARTIR DE LA TOPOLOGÍA BUCK.
+
+Problema: La tensión pico me la da Vg, que en general nunca es 311 V. ¿Ahí entra el transformador?
+
+Sección 6.3: Aislación --> TOPOLOGÍA FLYBACK. Alta ganancia de tensión, luego pasa a AC con un puente H
+
+
+--------------------------------------------------------------------------
+Trabajo de Fischer
+--------------------------------------------------------------------------
+
+En el trabajo de Fischer asumen una tensión de bus? Cómo la generan? O asumen que hay una etapa previa que produce esa tensión a partir de la del panel?
+
 El trabajo de Fischer puede ser una buena fuente para indagar sobre el filtro LCL, entender la topología global o tener una vaga idea de regulaciones, pero no tiene mucha explicación teórica.
 
 Puede ser útil robar alguna de las imágenes de ahí.
