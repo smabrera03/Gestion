@@ -1,0 +1,3 @@
+El trabajo de Fischer puede ser una buena fuente para indagar sobre el filtro LCL, entender la topología global o tener una vaga idea de regulaciones, pero no tiene mucha explicación teórica.
+
+Puede ser útil robar alguna de las imágenes de ahí.

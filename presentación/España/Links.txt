@@ -1,0 +1,10 @@
+Tom Scott:  It's getting harder to balance the power grid. Here's why.
+
+https://www.youtube.com/watch?v=NBXu6Z9Fw_M
+
+--> Los generadores síncronos giran todos a 50 Hz
+
+Aumenta el consumo, las máquinas se frenan. Baja la frecuencia.
+Baja el consumo, las máquinas aceleran. Sube la frecuencia.
+
+La frecuencia la determinan la velocidad a la que gire el rotor y cuántos polos tenga la máquina.

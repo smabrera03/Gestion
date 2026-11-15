@@ -1,0 +1,43 @@
+
+
+
+										INVERSOR
+
+9/11: ¿Cómo le vendo esto al Zanabria?
+
+
+Preguntas generales:
+1) ¿Cómo convertir DC a AC?
+2) ¿En qué aplicaciones se usan?
+3) ¿Cuántas topologías hay? ¿Cuáles son las desventajas y ventajas de cada una?
+
+
+Desafíos de ingeniería: 
+
+1) ¿Cómo inyectar energía a la red eléctrica? ¿Cómo se mantiene el inversor en fase con la red? ¿Qué pasa si cae la red?
+2) ¿Qué marco normativo los regula?
+3) ¿Qué mecanismos de seguridad y protección usan los inversores comerciales?
+4) ¿Cuáles son las diferencias entre los casos trifásicos y monofásicos?
+5) ¿Cómo se mide la energía entregada y recibida de la red?
+
+Buenos días, profesor. Le quería acercar mi propuesta de presentación para el martes de la semana que viene. Me gustaría hablar de los convertidores DC/AC o inversores. Es un tema que me resulta interesante, ya que resuelven el problema opuesto al del rectificador, el cual es un circuito relativamente simple y conocido. 
+
+La presentación giraría en torno a las siguientes preguntas:
+
+-> ¿Cómo convertir DC a AC?
+-> ¿En qué aplicaciones se usan los inversores?
+-> ¿Cuántas topologías hay? ¿Cuáles son las ventajas y desventajas de cada una?
+
+Luego de una investigación preliminar, encontré que hay muchos tipos de inversores, por lo que me gustaría centrarme en aquellos usados en aplicaciones de generación distribuida. Estos presentan los siguientes desafíos de ingeniería, los cuales me gustaría cubrir:
+
+-> ¿Cómo inyectar energía a la red eléctrica? ¿Cómo se mantiene el inversor en fase con la red? ¿Qué pasa si cae la red?
+-> ¿Qué marco normativo los regula?
+-> ¿Qué mecanismos de seguridad y protección usan los inversores comerciales?
+-> ¿Cuáles son las diferencias entre los casos trifásicos y monofásicos?
+-> ¿Cómo se mide la energía entregada y recibida de la red?
+
+Quedo atento a su respuesta.
+
+Buen fin de semana.
+
+Santiago
