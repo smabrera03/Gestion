@@ -5,6 +5,15 @@ Agarrar UN inversor particular para una aplicación fotovoltaica y explicar su t
 
 Anti-islanding: Apagar el inversor si la red cae. 
 
+Preguntas boludas que se lo podrían ocurrir a Z:
+
+1) ¿Qué pasa si cae la red? --> Anti-islanding
+
+2) ¿Qué pasa cuando sube/cae el sol? ¿A partir de qué punto empieza a trabajar el inversor? ¿Cómo es esa transición?
+
+3) ¿Cómo se mantiene en la fase de la línea?
+
+4) ¿Cómo se conecta el inversor a la red? ¿Va a un tomacorriente?
 --------------------------------------------------------------------------
 tidu402(High Voltage Solar Inverter Kit)
 https://www.ti.com/tool/TIDM-SOLAR-ONEPHINV
